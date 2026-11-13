@@ -1,3 +1,4 @@
+
 package com.jardineria.infrastructure.database;
 
 import java.sql.Connection;
@@ -45,6 +46,7 @@ public class ConnectionFactory {
         if (instance == null) {
             instance = new ConnectionFactory();
         }
+
         return instance;
     }
 
