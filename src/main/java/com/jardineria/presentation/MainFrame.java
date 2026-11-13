@@ -35,8 +35,8 @@ public class MainFrame extends JFrame {
 
         contenido.add(crearPanel("Bienvenido al Sistema de Jardinería"), "Inicio");
         contenido.add(new ClientesPanel(), "Clientes");
-        contenido.add(crearPanel("Módulo de Empleados"), "Empleados");
-        contenido.add(crearPanel("Módulo de Productos"), "Productos");
+        contenido.add(new EmpleadosPanel(), "Empleados");
+        contenido.add(new ProductosPanel(), "Productos");
         contenido.add(crearPanel("Módulo de Pedidos"), "Pedidos");
         contenido.add(crearPanel("Módulo de Pagos"), "Pagos");
 
