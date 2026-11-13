@@ -1,4 +1,4 @@
-package com.jardineria.infrastructure.persistence;
+package com.jardineria.infrastructure.database.persistence;
 
 import com.jardineria.domain.model.Oficina;
 import com.jardineria.domain.model.repository.OficinaRepository;
