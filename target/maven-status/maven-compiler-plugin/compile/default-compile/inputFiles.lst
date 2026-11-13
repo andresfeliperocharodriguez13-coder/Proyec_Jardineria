@@ -13,7 +13,9 @@ C:\Users\andre\Documents\Java_Proyecto1\Jardineria\jardineria-app\src\main\java\
 C:\Users\andre\Documents\Java_Proyecto1\Jardineria\jardineria-app\src\main\java\com\jardineria\domain\model\GamaProducto.java
 C:\Users\andre\Documents\Java_Proyecto1\Jardineria\jardineria-app\src\main\java\com\jardineria\domain\model\Oficina.java
 C:\Users\andre\Documents\Java_Proyecto1\Jardineria\jardineria-app\src\main\java\com\jardineria\domain\model\repository\EmpleadoRepository.java
+C:\Users\andre\Documents\Java_Proyecto1\Jardineria\jardineria-app\src\main\java\com\jardineria\domain\model\repository\GamaProductoRepository.java
 C:\Users\andre\Documents\Java_Proyecto1\Jardineria\jardineria-app\src\main\java\com\jardineria\domain\model\repository\OficinaRepository.java
 C:\Users\andre\Documents\Java_Proyecto1\Jardineria\jardineria-app\src\main\java\com\jardineria\infrastructure\database\ConnectionFactory.java
 C:\Users\andre\Documents\Java_Proyecto1\Jardineria\jardineria-app\src\main\java\com\jardineria\infrastructure\database\persistence\EmpleadoRepositoryMySQL.java
+C:\Users\andre\Documents\Java_Proyecto1\Jardineria\jardineria-app\src\main\java\com\jardineria\infrastructure\database\persistence\GamaProductoRepositoryMySQL.java
 C:\Users\andre\Documents\Java_Proyecto1\Jardineria\jardineria-app\src\main\java\com\jardineria\infrastructure\database\persistence\OficinaRepositoryMySQL.java
